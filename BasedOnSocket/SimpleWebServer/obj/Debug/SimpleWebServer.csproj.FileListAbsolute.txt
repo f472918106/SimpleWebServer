@@ -1,0 +1,9 @@
+C:\Users\47291\Desktop\SimpleWebServer\SimpleWebServer\bin\Debug\SimpleWebServer.exe.config
+C:\Users\47291\Desktop\SimpleWebServer\SimpleWebServer\bin\Debug\SimpleWebServer.exe
+C:\Users\47291\Desktop\SimpleWebServer\SimpleWebServer\bin\Debug\SimpleWebServer.pdb
+C:\Users\47291\Desktop\SimpleWebServer\SimpleWebServer\obj\Debug\SimpleWebServer.csprojResolveAssemblyReference.cache
+C:\Users\47291\Desktop\SimpleWebServer\SimpleWebServer\obj\Debug\SimpleWebServer.exe
+C:\Users\47291\Desktop\SimpleWebServer\SimpleWebServer\obj\Debug\SimpleWebServer.pdb
+F:\study\ASP.NET\SimpleWebServer\BasedOnSocket\SimpleWebServer\bin\Debug\SimpleWebServer.exe.config
+F:\study\ASP.NET\SimpleWebServer\BasedOnSocket\SimpleWebServer\obj\Debug\SimpleWebServer.exe
+F:\study\ASP.NET\SimpleWebServer\BasedOnSocket\SimpleWebServer\obj\Debug\SimpleWebServer.pdb

@@ -1,0 +1,7 @@
+F:\study\ASP.NET\WebServer\BasedOnTcpListener\SimpleWebServer\SimpleWebServer\bin\Debug\SimpleWebServer.exe.config
+F:\study\ASP.NET\WebServer\BasedOnTcpListener\SimpleWebServer\bin\Debug\SimpleWebServer.exe.config
+F:\study\ASP.NET\WebServer\BasedOnTcpListener\SimpleWebServer\bin\Debug\SimpleWebServer.exe
+F:\study\ASP.NET\WebServer\BasedOnTcpListener\SimpleWebServer\bin\Debug\SimpleWebServer.pdb
+F:\study\ASP.NET\WebServer\BasedOnTcpListener\SimpleWebServer\obj\Debug\SimpleWebServer.csprojResolveAssemblyReference.cache
+F:\study\ASP.NET\WebServer\BasedOnTcpListener\SimpleWebServer\obj\Debug\SimpleWebServer.exe
+F:\study\ASP.NET\WebServer\BasedOnTcpListener\SimpleWebServer\obj\Debug\SimpleWebServer.pdb
